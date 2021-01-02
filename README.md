@@ -3,3 +3,5 @@
 Logika kekalahan diatur dalam beberapa **variabel**.
 
 <img src = "FlyingCubeGif.gif" width="140" height="140" />
+
+##### [Flying Cube]()
